@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="289" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e449a22-6911-44c2-88eb-c068d7737310" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#Lab7#0" />
+                <element signature="docComment;method#main#0;class#Lab7#0" />
+                <element signature="method#main#0;class#Lab7#0" />
+                <element signature="docComment;method#Lab7#0;class#Lab7#0" />
+                <element signature="method#Lab7#0;class#Lab7#0" />
+                <element signature="docComment;method#drawCurrentShape#0;class#Lab7#0" />
+                <element signature="docComment;method#triangularPrism#0;class#Lab7#0" />
+                <element signature="e#5075#5076#0" expanded="true" />
+                <element signature="e#5118#5119#0" expanded="true" />
+                <element signature="docComment;method#paintingFromOpenGL#0;class#Lab7#0" />
+                <element signature="docComment;method#display#0;class#Lab7#0" />
+                <element signature="docComment;method#init#0;class#Lab7#0" />
+                <element signature="method#init#0;class#Lab7#0" />
+                <element signature="method#dispose#0;class#Lab7#0" />
+                <element signature="method#reshape#0;class#Lab7#0" />
+                <element signature="docComment;method#getMenuBar#0;class#Lab7#0" />
+                <element signature="docComment;method#makeMenuItem#0;class#Lab7#0" />
+                <element signature="method#makeMenuItem#0;class#Lab7#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../../../GK_LAB7-master/src/Lab7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Camera.java" />
+        <option value="$PROJECT_DIR$/src/TexturedShape.java" />
+        <option value="$PROJECT_DIR$/src/TexturedShapes.java" />
+        <option value="$PROJECT_DIR$/src/PaintPanel.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="829" />
+    <option name="width" value="1098" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="7Laborki08-04-2019_1zadanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7Laborki08-04-2019_1zadanie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7Laborki08-04-2019_1zadanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7Laborki08-04-2019_1zadanie" type="462c0819:PsiDirectoryNode" />
+              <item name=".lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7Laborki08-04-2019_1zadanie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7Laborki08-04-2019_1zadanie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558808775091" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5Laborki18-03-2019_1zadanie" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lab7">
+    <configuration name="Lab7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7" />
+      <module name="7Laborki08-04-2019_1zadanie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="7Laborki08-04-2019_1zadanie" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Lab7" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab7" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e449a22-6911-44c2-88eb-c068d7737310" name="Default Changelist" comment="" />
+      <created>1556951023988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556951023988</updated>
+      <workItem from="1556951027184" duration="3506000" />
+      <workItem from="1556954765961" duration="721000" />
+      <workItem from="1556988299886" duration="1626000" />
+      <workItem from="1556990082730" duration="60000" />
+      <workItem from="1557930987227" duration="3000" />
+      <workItem from="1558806799929" duration="1713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7629000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.3290461" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/.lib/jogamp-fat-2.3.2.jar!/com/jogamp/opengl/util/texture/Texture.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1989">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lib/jogamp-fat-2.3.2.jar!/com/jogamp/opengl/GL2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PaintPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1106">
+          <caret line="872" column="4" selection-start-line="872" selection-start-column="4" selection-end-line="872" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#PaintPanel#0" />
+            <element signature="docComment;method#copyOSC#0;class#PaintPanel#0" />
+            <element signature="method#copyOSC#0;class#PaintPanel#0" />
+            <element signature="docComment;method#installImage#0;class#PaintPanel#0" />
+            <element signature="method#installImage#0;class#PaintPanel#0" />
+            <element signature="docComment;method#main#0;class#PaintPanel#0" />
+            <element signature="method#main#0;class#PaintPanel#0" />
+            <element signature="docComment;class#Tool#0;class#PaintPanel#0" />
+            <element signature="class#Tool#0;class#PaintPanel#0" />
+            <element signature="docComment;field#SHAPE_TOOLS#0;class#PaintPanel#0" />
+            <element signature="docComment;field#currentTool#0;class#PaintPanel#0" />
+            <element signature="docComment;field#currentStrokeColor#0;class#PaintPanel#0" />
+            <element signature="docComment;field#currentFillColor#0;class#PaintPanel#0" />
+            <element signature="docComment;field#fillColor#0;class#PaintPanel#0" />
+            <element signature="docComment;field#lineWidth#0;class#PaintPanel#0" />
+            <element signature="docComment;field#transparent#0;class#PaintPanel#0" />
+            <element signature="docComment;field#OSC#0;class#PaintPanel#0" />
+            <element signature="docComment;field#dragging#0;class#PaintPanel#0" />
+            <element signature="docComment;field#startX#0;class#PaintPanel#0" />
+            <element signature="docComment;field#currentX#0;class#PaintPanel#0" />
+            <element signature="docComment;field#fileDialog#0;class#PaintPanel#0" />
+            <element signature="docComment;field#imageSavedForUndo#0;class#PaintPanel#0" />
+            <element signature="docComment;method#PaintPanel#0;class#PaintPanel#0" />
+            <element signature="method#PaintPanel#0;class#PaintPanel#0" />
+            <element signature="docComment;method#paintComponent#0;class#PaintPanel#0" />
+            <element signature="method#paintComponent#0;class#PaintPanel#0" />
+            <element signature="docComment;method#createOSC#0;class#PaintPanel#0" />
+            <element signature="method#createOSC#0;class#PaintPanel#0" />
+            <element signature="docComment;method#saveUndoImage#0;class#PaintPanel#0" />
+            <element signature="method#saveUndoImage#0;class#PaintPanel#0" />
+            <element signature="docComment;method#putCurrentShape#0;class#PaintPanel#0" />
+            <element signature="method#putCurrentShape#0;class#PaintPanel#0" />
+            <element signature="docComment;method#applyStrokeProperties#0;class#PaintPanel#0" />
+            <element signature="method#applyStrokeProperties#0;class#PaintPanel#0" />
+            <element signature="docComment;method#applyFillColor#0;class#PaintPanel#0" />
+            <element signature="method#applyFillColor#0;class#PaintPanel#0" />
+            <element signature="docComment;method#putRect#0;class#PaintPanel#0" />
+            <element signature="method#putRect#0;class#PaintPanel#0" />
+            <element signature="docComment;method#putOval#0;class#PaintPanel#0" />
+            <element signature="method#putOval#0;class#PaintPanel#0" />
+            <element signature="docComment;method#repaintRect#0;class#PaintPanel#0" />
+            <element signature="method#repaintRect#0;class#PaintPanel#0" />
+            <element signature="docComment;method#createRadioGroup#0;class#PaintPanel#0" />
+            <element signature="method#createRadioGroup#0;class#PaintPanel#0" />
+            <element signature="docComment;method#getMenuBar#0;class#PaintPanel#0" />
+            <element signature="method#getMenuBar#0;class#PaintPanel#0" />
+            <element signature="docComment;class#MenuHandler#0;class#PaintPanel#0" />
+            <element signature="class#MenuHandler#0;class#PaintPanel#0" />
+            <element signature="docComment;class#MouseHandler#0;class#PaintPanel#0" />
+            <element signature="class#MouseHandler#0;class#PaintPanel#0" />
+            <element signature="docComment;method#doOpenFile#0;class#PaintPanel#0" />
+            <element signature="method#doOpenFile#0;class#PaintPanel#0" />
+            <element signature="docComment;method#doSaveFile#0;class#PaintPanel#0" />
+            <element signature="method#doSaveFile#0;class#PaintPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Camera.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GK_LAB7-master/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GK_LAB7-master/src/TexturedShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1547">
+          <caret selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TexturedShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="140" column="92" selection-start-line="140" selection-start-column="92" selection-end-line="140" selection-end-column="92" />
+          <folding>
+            <element signature="docComment;class#TexturedShapes#0" />
+            <element signature="docComment;method#cube#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#square#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#circle#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#ring#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvSphere#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvCylinder#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvCone#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvTorus#0;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvSphere#1;class#TexturedShapes#0" />
+            <element signature="method#uvSphere#1;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvCylinder#1;class#TexturedShapes#0" />
+            <element signature="method#uvCylinder#1;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvCone#1;class#TexturedShapes#0" />
+            <element signature="method#uvCone#1;class#TexturedShapes#0" />
+            <element signature="docComment;method#uvTorus#1;class#TexturedShapes#0" />
+            <element signature="method#uvTorus#1;class#TexturedShapes#0" />
+            <element signature="docComment;method#cube#1;class#TexturedShapes#0" />
+            <element signature="method#cube#1;class#TexturedShapes#0" />
+            <element signature="docComment;method#square#1;class#TexturedShapes#0" />
+            <element signature="docComment;method#circle#1;class#TexturedShapes#0" />
+            <element signature="method#circle#1;class#TexturedShapes#0" />
+            <element signature="docComment;method#ring#1;class#TexturedShapes#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GK_LAB7-master/src/Lab7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Lab7#0" />
+            <element signature="docComment;method#main#0;class#Lab7#0" />
+            <element signature="method#main#0;class#Lab7#0" />
+            <element signature="docComment;method#Lab7#0;class#Lab7#0" />
+            <element signature="method#Lab7#0;class#Lab7#0" />
+            <element signature="docComment;method#drawCurrentShape#0;class#Lab7#0" />
+            <element signature="docComment;method#triangularPrism#0;class#Lab7#0" />
+            <element signature="e#5075#5076#0" expanded="true" />
+            <element signature="e#5118#5119#0" expanded="true" />
+            <element signature="docComment;method#paintingFromOpenGL#0;class#Lab7#0" />
+            <element signature="docComment;method#display#0;class#Lab7#0" />
+            <element signature="docComment;method#init#0;class#Lab7#0" />
+            <element signature="method#init#0;class#Lab7#0" />
+            <element signature="method#dispose#0;class#Lab7#0" />
+            <element signature="method#reshape#0;class#Lab7#0" />
+            <element signature="docComment;method#getMenuBar#0;class#Lab7#0" />
+            <element signature="docComment;method#makeMenuItem#0;class#Lab7#0" />
+            <element signature="method#makeMenuItem#0;class#Lab7#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
