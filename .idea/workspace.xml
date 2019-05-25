@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="289" />
+    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="301" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e449a22-6911-44c2-88eb-c068d7737310" name="Default Changelist" comment="" />
+    <list default="true" id="4e449a22-6911-44c2-88eb-c068d7737310" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+            <state relative-caret-position="578">
+              <caret line="247" lean-forward="true" selection-start-line="247" selection-end-line="247" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#Lab7#0" />
@@ -47,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../../../../GK_LAB7-master/src/Lab7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+            <state relative-caret-position="545">
+              <caret line="234" column="23" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="234" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,6 +67,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,6 +93,7 @@
     <option name="width" value="1098" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -101,16 +108,6 @@
               <item name="7Laborki08-04-2019_1zadanie" type="b2602c69:ProjectViewProjectNode" />
               <item name="7Laborki08-04-2019_1zadanie" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="7Laborki08-04-2019_1zadanie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7Laborki08-04-2019_1zadanie" type="462c0819:PsiDirectoryNode" />
-              <item name=".lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="7Laborki08-04-2019_1zadanie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7Laborki08-04-2019_1zadanie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -120,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558808775091" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558809471854" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../5Laborki18-03-2019_1zadanie" />
   </component>
   <component name="RunDashboard">
@@ -179,12 +176,12 @@
       <workItem from="1556988299886" duration="1626000" />
       <workItem from="1556990082730" duration="60000" />
       <workItem from="1557930987227" duration="3000" />
-      <workItem from="1558806799929" duration="1713000" />
+      <workItem from="1558806799929" duration="2684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7629000" />
+    <option name="totallyTimeSpent" value="8600000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,7 +206,7 @@
       <window_info anchor="bottom" id="Duplicate detector" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -217,7 +214,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1693462" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -357,10 +354,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7Laborki08-04-2019_1zadanie.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../../GK_LAB7-master/src/Lab7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+        <state relative-caret-position="545">
+          <caret line="234" column="23" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="234" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -369,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+        <state relative-caret-position="578">
+          <caret line="247" lean-forward="true" selection-start-line="247" selection-end-line="247" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#Lab7#0" />

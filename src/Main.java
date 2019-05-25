@@ -217,21 +217,33 @@ class Lab7 extends JPanel implements GLEventListener {
      * @return the newly created texture object.
      */
     private Texture textureFromPainting() {
-        GLContext context = displayGL.getContext(); // OpenGL context for the display panel.
-        boolean needsRelease = false;  // Will be set to true if context needs to be made current.
+        Texture texture;
+        BufferedImage img = paintPanel.copyOSC(); // Gets the image from paintPanel
+
+        /*
+            Makes the context current in current thread
+         */
+        GLContext context = displayGL.getContext();
+        boolean needsRelease = false;
         if (!context.isCurrent()) {
-            // Make the context current on the current thread.
             context.makeCurrent();
             needsRelease = true;
         }
-        GL2 gl2 = context.getGL().getGL2();
-        AWTGLReadBufferUtil readBuf = new AWTGLReadBufferUtil(displayGL.getGLProfile(), false);
-        BufferedImage img = readBuf.readPixelsToBufferedImage(gl2, true); // Get display content as image.
+
+        GL2 gl2 = context.getGL().getGL2(); // Gets the gl2 on current context
+
+        /*
+            Creates texture from image gotten before from paintPanel.
+         */
+        texture = AWTTextureIO.newTexture(displayGL.getGLProfile(), img, true);
+        texture.setTexParameteri(gl2, GL2.GL_TEXTURE_WRAP_S, GL2.GL_REPEAT);
+        texture.setTexParameteri(gl2, GL2.GL_TEXTURE_WRAP_T, GL2.GL_REPEAT);
+
         if (needsRelease) {
             context.release();
         }
-        paintPanel.installImage(img); // copy the image into the PaintPanel.
-        return null;
+
+        return texture;
     }
 
     /**
